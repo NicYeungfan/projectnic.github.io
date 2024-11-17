@@ -13,6 +13,7 @@ Visuals:
 ![image](Towngas2.png) ![image](Towngas3.png)
 ![image](ultrasoundimage.png)
 Related paper "Yang, F., Shi, D., Lo, L. Y., Mao, Q., Zhang, J., & Lam, K. H*, "Auto-Diagnosis of Time-of-Flight for Ultrasonic Signal Based on Defect Peaks Tracking Model", Remote Sensing, Jan. 2023. (IF = 5)" <a href="https://doi.org/10.3390/rs15030599"> https://doi.org/10.3390/rs15030599
+
 2. Freezer Truck Development Project
 (Prof. Ka Wai Eric Cheng, 2023, PolyU)
 
